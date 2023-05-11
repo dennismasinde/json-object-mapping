@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Java 8 in action",
+    "isbn": "978-7878787878",
+    "year": 2014,
+    "language": "English",
+    "pages": 424,
+    "authors": [
+      "Raul",
+      "Marco",
+      "Allan"
+    ],
+    "publishers": [
+      "Dreamtech Press"
+    ]
+  },
+  {
+    "title": "Java 8 in action",
+    "isbn": "978-7878787878",
+    "year": 2014,
+    "language": "English",
+    "pages": 424,
+    "authors": [
+      "Raul",
+      "Marco",
+      "Allan"
+    ],
+    "publishers": [
+      "Dreamtech Press"
+    ]
+  },
+  {
+    "title": "Java 8 in action",
+    "isbn": "978-7878787878",
+    "year": 2014,
+    "language": "English",
+    "pages": 424,
+    "authors": [
+      "Raul",
+      "Marco",
+      "Allan"
+    ],
+    "publishers": [
+      "Dreamtech Press"
+    ]
+  }
+]

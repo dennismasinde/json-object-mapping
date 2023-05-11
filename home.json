@@ -1,0 +1,14 @@
+{
+  "address": "1234 Sunset Dr",
+  "cost": 123456.78,
+  "pets": [
+    {
+      "name": "Rex",
+      "color": "Red"
+    },
+    {
+      "name": "Woofy",
+      "color": "White"
+    }
+  ]
+}
