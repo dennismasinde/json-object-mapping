@@ -18,6 +18,7 @@ public class App {
         String file = "book.json";
         String booklist = "booklist.json";
         String file2 = "home.json";
+        String gitHubWebHookfile = "githubwebhook.json";
 
         ObjectMapper objectMapper = new ObjectMapper();
 
@@ -28,7 +29,7 @@ public class App {
         System.out.println(Arrays.asList(bookArray));
 
         List<Book> bookList = objectMapper
-                .readValue(new File(booklist), new TypeReference<List<Book>>() {});
+                .readValue(new File(booklist), new TypeReference<>() {});
         System.out.println(bookList);
 
         Home home = objectMapper.readValue(new File(file2), Home.class);
@@ -42,6 +43,10 @@ public class App {
 
         home.getPets()
                 .forEach((data) -> System.out.println(data.getName() + " " + data.getColor()));
+
+
+        GitHubWebHook gitHubWebHook = objectMapper.readValue(new File(gitHubWebHookfile), GitHubWebHook.class);
+        System.out.println(gitHubWebHook);
 
 
     }
