@@ -2,12 +2,14 @@
   "ref": "refs/heads/master",
   "before": "aa06401b792c9a185feccd4ef5ca89808aef0fd6",
   "after": "baf97dabff17a09297c6a9131d50589517d7fc3e",
+
   "repository": {
     "id": 639384740,
     "node_id": "R_kgDOJhw8pA",
     "name": "json-object-mapping",
     "full_name": "dennismasinde/json-object-mapping",
     "priv": false,
+
     "owner": {
       "name": "dennismasinde",
       "email": "chengwadennismasinde@gmail.com",
@@ -30,6 +32,7 @@
       "type": "User",
       "site_admin": false
     },
+
     "html_url": "https://github.com/dennismasinde/json-object-mapping",
     "description": null,
     "fork": false,
@@ -106,6 +109,7 @@
     "stargazers": 0,
     "master_branch": "master"
   },
+
   "pusher": {
     "name": "dennismasinde",
     "email": "chengwadennismasinde@gmail.com"
@@ -173,6 +177,7 @@
         "email": "chengwadennismasinde@gmail.com",
         "username": "dennismasinde"
       },
+
       "committer": {
         "name": "dennismasinde",
         "email": "chengwadennismasinde@gmail.com",
